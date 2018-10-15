@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Homeless Counts for Community</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+
+</head>
+
+<style>
+    div.tooltip {
+        color: #222;
+        background: #fff;
+        border-radius: 3px;
+        box-shadow: 0px 0px 2px 0px #a6a6a6;
+        padding: .2em;
+        text-shadow: #f5f5f5 0 1px 0;
+        opacity: 0.9;
+        position: absolute;
+    }
+</style>
+
+<body>
+
+    <div id="map" style="width: 1000px; height: 800px"></div>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js">
+    </script>
+
+    <script>
+
+        var map = L.map('map').setView([34.052235, -118.243683], 9);
+        mapLink =
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; ' + mapLink + ' Contributors',
+                maxZoom: 18,
+            }).addTo(map);
+        // Add an SVG element to Leaflet’s overlay pane
+        var svg = d3.select(map.getPanes().overlayPane).append("svg"),
+            g = svg.append("g").attr("class", "leaflet-zoom-hide");
+
+        //customize color range
+        var lightcolor = d3.rgb(0, 200, 200);    //light blue
+        var deepcolor = d3.rgb(0, 50, 200);        //deep blue
+        var mycolor = d3.interpolate(lightcolor, deepcolor);        //color range
+
+        //mapping data with color range
+        // var linear = d3.scale.linear()
+        //     .domain([0, 272])
+        //     .range([0, 1]);
+
+        //for tooltip 
+        var offsetL = document.getElementById('map').offsetLeft + 10;
+        var offsetT = document.getElementById('map').offsetTop + 10;
+
+        var tooltip = d3.select("#map")
+            .append("div")
+            .attr("class", "tooltip hidden");
+
+
+
+
+        d3.json("Dataset/la_data.json", function (communityData) {
+            d3.json("Dataset/la.geo.json", function (error, geoShape) {
+                if (error)
+                    return console.error(error);
+                console.log(geoShape.features);
+
+                var linear = d3.scale.linear()
+                    .domain(d3.extent(communityData, function (it) { return it.totPeople; }))
+                    .range([0, 1]);
+
+
+                //  create a d3.geo.path to convert GeoJSON to SVG
+                var transform = d3.geo.transform({ point: projectPoint }),
+                    path = d3.geo.path().projection(transform);
+
+
+
+                // create path elements for each of the features
+                d3_features = g.selectAll("path")
+                    .data(geoShape.features)
+                    .enter().append("path");
+                map.on("viewreset", reset);
+                reset();
+
+
+
+
+                // fit the SVG element to leaflet's map layer
+                function reset() {
+
+                    bounds = path.bounds(geoShape);
+                    var topLeft = bounds[0],
+                        bottomRight = bounds[1];
+                    svg.attr("width", bottomRight[0] - topLeft[0])
+                        .attr("height", bottomRight[1] - topLeft[1])
+                        .style("left", topLeft[0] + "px")
+                        .style("top", topLeft[1] + "px");
+                    g.attr("transform", "translate(" + -topLeft[0] + ","
+                        + -topLeft[1] + ")");
+
+
+                    for (var i = 0; i < communityData.length; i++) {
+
+                        //get data: community name
+                        var dataName = communityData[i].Community_Name;
+                        // //get data: community count
+                        var dataValue = communityData[i].totPeople;
+
+                        for (var j = 0; j < geoShape.features.length; j++) {
+                            var geoName = geoShape.features[j].properties.name;
+                            if (dataName == geoName) {
+                                geoShape.features[j].properties.counts = dataValue;
+                            }
+                        }
+
+
+                    }
+
+                    // initialize the path data
+                    d3_features
+                        .attr("stroke", "#000")
+                        .attr("stroke-width", 1)
+                        //.attr("name", function (d) { return d.properties.name; })
+                        .attr("d", path)
+                        .style("fill-opacity", 0.7)
+                        .attr("fill", function (d) {
+                            if (d.properties.counts) {
+                                return mycolor(linear(d.properties.counts).toString());
+                            } else {
+                                return "white";
+                            }
+
+                        })
+                        .on("mouseover", showTooltip)
+                        .on("mouseout", function (d) {
+                            tooltip.classed("hidden", true);
+                            if (d.properties.counts) {
+                                d3.select(this)
+                                    .attr("fill", mycolor(linear(d.properties.counts)).toString());
+
+                            } else {
+                                d3.select(this)
+                                    .attr("fill", "white");
+                            }
+
+                        });
+                }
+                // Use Leaflet to implement a D3 geometric transformation.
+                function projectPoint(x, y) {
+                    var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+                    this.stream.point(point.x, point.y);
+                }
+            })
+
+        })
+
+        function showTooltip(d, i) {
+            d3.select(this).attr("fill", "yellow");
+            label = "CommunityName: " + d.properties.name + "</br>" + "Counts:" + d.properties.counts;
+            var mouse = d3.mouse(svg.node())
+                .map(function (d) { return parseInt(d); });
+            tooltip.classed("hidden", false)
+                .attr("style", "left:" + (mouse[0] + offsetL) + "px;top:" + (mouse[1] + offsetT) + "px")
+                .html(label);
+
+        }
+
+
+    </script>
+</body>
+
+</html>

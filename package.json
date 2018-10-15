@@ -1,0 +1,24 @@
+{
+  "name": "ascj420-homelessness",
+  "version": "1.0.0",
+  "description": "\"# ASCJ420-Homelessness\"",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "react": "^16.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiFeRe/ASCJ420-Homelessness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiFeRe/ASCJ420-Homelessness/issues"
+  },
+  "homepage": "https://github.com/JiFeRe/ASCJ420-Homelessness#readme"
+}
