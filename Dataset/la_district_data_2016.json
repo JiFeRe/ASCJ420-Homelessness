@@ -1,0 +1,22 @@
+[
+    {
+        "District_Name": "District 1",
+        "totPeople": 8749
+    },
+    {
+        "District_Name": "District 2",
+        "totPeople": 15322
+    },
+    {
+        "District_Name": "District 3",
+        "totPeople": 10712
+    },
+    {
+        "District_Name": "District 4",
+        "totPeople": 3711
+    },
+    {
+        "District_Name": "District 5",
+        "totPeople": 5360
+    }
+]
