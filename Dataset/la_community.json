@@ -1,846 +1,2528 @@
-[
-  {
-    "Community_Name": "Adams",
-    "totPeople": 259
-  },
-  {
-    "Community_Name": "Adams-La Brea",
-    "totPeople": 179
-  },
-  {
-    "Community_Name": "Agoura Hills",
-    "totPeople": 2
-  },
-  {
-    "Community_Name": "Agua Dulce",
-    "totPeople": 38
-  },
-  {
-    "Community_Name": "Alhambra",
-    "totPeople": 52
-  },
-  {
-    "Community_Name": "Alondra Park",
-    "totPeople": 42
-  },
-  {
-    "Community_Name": "Altadena",
-    "totPeople": 56
-  },
-  {
-    "Community_Name": "Angeles National Forest",
-    "totPeople": 36
-  },
-  {
-    "Community_Name": "Arcadia",
-    "totPeople": 3
-  },
-  {
-    "Community_Name": "Arleta",
-    "totPeople": 80
-  },
-  {
-    "Community_Name": "Arroyo Seco",
-    "totPeople": 185
-  },
-  {
-    "Community_Name": "Artesia",
-    "totPeople": 16
-  },
-  {
-    "Community_Name": "Atwater Village",
-    "totPeople": 111
-  },
-  {
-    "Community_Name": "Avalon",
-    "totPeople": 42
-  },
-  {
-    "Community_Name": "Avocado Heights",
-    "totPeople": 33
-  },
-  {
-    "Community_Name": "Azusa",
-    "totPeople": 159
-  },
-  {
-    "Community_Name": "Baldwin Hills / Crenshaw",
-    "totPeople": 367
-  },
-  {
-    "Community_Name": "Baldwin Park",
-    "totPeople": 288
-  },
-  {
-    "Community_Name": "Bel Air-Beverly Crest",
-    "totPeople": 14
-  },
-  {
-    "Community_Name": "Bell",
-    "totPeople": 431
-  },
-  {
-    "Community_Name": "Bell Gardens",
-    "totPeople": 105
-  },
-  {
-    "Community_Name": "Bellflower",
-    "totPeople": 135
-  },
-  {
-    "Community_Name": "Beverly Hills",
-    "totPeople": 18
-  },
-  {
-    "Community_Name": "Boyle Heights",
-    "totPeople": 584
-  },
-  {
-    "Community_Name": "Bradbury",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Brentwood",
-    "totPeople": 34
-  },
-  {
-    "Community_Name": "Burbank",
-    "totPeople": 200
-  },
-  {
-    "Community_Name": "Calabasas",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Calabasas and Hidden Hills",
-    "totPeople": 2
-  },
-  {
-    "Community_Name": "Canoga Park",
-    "totPeople": 156
-  },
-  {
-    "Community_Name": "Canyon Country",
-    "totPeople": 3
-  },
-  {
-    "Community_Name": "Carson",
-    "totPeople": 461
-  },
-  {
-    "Community_Name": "Central Alameda",
-    "totPeople": 189
-  },
-  {
-    "Community_Name": "Cerritos",
-    "totPeople": 59
-  },
-  {
-    "Community_Name": "Charter Oak",
-    "totPeople": 18
-  },
-  {
-    "Community_Name": "Chatsworth",
-    "totPeople": 162
-  },
-  {
-    "Community_Name": "Chinatown",
-    "totPeople": 397
-  },
-  {
-    "Community_Name": "Citrus",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Claremont",
-    "totPeople": 29
-  },
-  {
-    "Community_Name": "Commerce",
-    "totPeople": 218
-  },
-  {
-    "Community_Name": "Compton",
-    "totPeople": 394
-  },
-  {
-    "Community_Name": "Covina",
-    "totPeople": 98
-  },
-  {
-    "Community_Name": "Cudahy",
-    "totPeople": 28
-  },
-  {
-    "Community_Name": "Culver City",
-    "totPeople": 118
-  },
-  {
-    "Community_Name": "Cypress Park",
-    "totPeople": 53
-  },
-  {
-    "Community_Name": "Del Aire",
-    "totPeople": 13
-  },
-  {
-    "Community_Name": "Del Rey",
-    "totPeople": 263
-  },
-  {
-    "Community_Name": "Diamond Bar",
-    "totPeople": 4
-  },
-  {
-    "Community_Name": "Downey",
-    "totPeople": 180
-  },
-  {
-    "Community_Name": "Downtown Los Angeles",
-    "totPeople": 1552
-  },
-  {
-    "Community_Name": "Duarte",
-    "totPeople": 15
-  },
-  {
-    "Community_Name": "Eagle Rock",
-    "totPeople": 184
-  },
-  {
-    "Community_Name": "East Los Angeles",
-    "totPeople": 359
-  },
-  {
-    "Community_Name": "East Pasadena",
-    "totPeople": 5
-  },
-  {
-    "Community_Name": "East San Gabriel",
-    "totPeople": 7
-  },
-  {
-    "Community_Name": "Echo Park",
-    "totPeople": 815
-  },
-  {
-    "Community_Name": "El Monte",
-    "totPeople": 543
-  },
-  {
-    "Community_Name": "El Segundo",
-    "totPeople": 14
-  },
-  {
-    "Community_Name": "El Sereno",
-    "totPeople": 93
-  },
-  {
-    "Community_Name": "Elysian Valley",
-    "totPeople": 35
-  },
-  {
-    "Community_Name": "Encino",
-    "totPeople": 34
-  },
-  {
-    "Community_Name": "Florence-Graham",
-    "totPeople": 729
-  },
-  {
-    "Community_Name": "Foothill Trails",
-    "totPeople": 60
-  },
-  {
-    "Community_Name": "Gardena",
-    "totPeople": 47
-  },
-  {
-    "Community_Name": "Glassell Park",
-    "totPeople": 106
-  },
-  {
-    "Community_Name": "Glendora",
-    "totPeople": 63
-  },
-  {
-    "Community_Name": "Granada Hills",
-    "totPeople": 58
-  },
-  {
-    "Community_Name": "Green Meadows",
-    "totPeople": 617
-  },
-  {
-    "Community_Name": "Hacienda Heights",
-    "totPeople": 313
-  },
-  {
-    "Community_Name": "Harbor City",
-    "totPeople": 105
-  },
-  {
-    "Community_Name": "Harbor Gateway",
-    "totPeople": 178
-  },
-  {
-    "Community_Name": "Hawaiian Gardens",
-    "totPeople": 23
-  },
-  {
-    "Community_Name": "Hawthorne",
-    "totPeople": 138
-  },
-  {
-    "Community_Name": "Hermosa Beach",
-    "totPeople": 23
-  },
-  {
-    "Community_Name": "Highland Park",
-    "totPeople": 384
-  },
-  {
-    "Community_Name": "Hollywood",
-    "totPeople": 1353
-  },
-  {
-    "Community_Name": "Hollywood Hills West",
-    "totPeople": 133
-  },
-  {
-    "Community_Name": "Huntington Park",
-    "totPeople": 255
-  },
-  {
-    "Community_Name": "Industry",
-    "totPeople": 34
-  },
-  {
-    "Community_Name": "Inglewood",
-    "totPeople": 506
-  },
-  {
-    "Community_Name": "Irwindale",
-    "totPeople": 24
-  },
-  {
-    "Community_Name": "Kinneloa Mesa",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "La Cañada Flintridge",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "La Crescenta-Montrose",
-    "totPeople": 2
-  },
-  {
-    "Community_Name": "La Habra Heights",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "La Mirada",
-    "totPeople": 52
-  },
-  {
-    "Community_Name": "La Puente",
-    "totPeople": 13
-  },
-  {
-    "Community_Name": "La Rambla",
-    "totPeople": 4
-  },
-  {
-    "Community_Name": "La Verne",
-    "totPeople": 7
-  },
-  {
-    "Community_Name": "Ladera Heights",
-    "totPeople": 3
-  },
-  {
-    "Community_Name": "Lake Balboa",
-    "totPeople": 188
-  },
-  {
-    "Community_Name": "Lakewood",
-    "totPeople": 107
-  },
-  {
-    "Community_Name": "Lancaster",
-    "totPeople": 1076
-  },
-  {
-    "Community_Name": "Lawndale",
-    "totPeople": 31
-  },
-  {
-    "Community_Name": "Lennox",
-    "totPeople": 174
-  },
-  {
-    "Community_Name": "Lincoln Heights",
-    "totPeople": 273
-  },
-  {
-    "Community_Name": "Lomita",
-    "totPeople": 14
-  },
-  {
-    "Community_Name": "Los Feliz",
-    "totPeople": 151
-  },
-  {
-    "Community_Name": "Lynwood",
-    "totPeople": 158
-  },
-  {
-    "Community_Name": "Malibu",
-    "totPeople": 155
-  },
-  {
-    "Community_Name": "Malibu Lake",
-    "totPeople": 10
-  },
-  {
-    "Community_Name": "Manhattan Beach",
-    "totPeople": 40
-  },
-  {
-    "Community_Name": "Mar Vista",
-    "totPeople": 178
-  },
-  {
-    "Community_Name": "Marina del Rey",
-    "totPeople": 12
-  },
-  {
-    "Community_Name": "Mayflower Village",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Maywood",
-    "totPeople": 22
-  },
-  {
-    "Community_Name": "Mid City",
-    "totPeople": 144
-  },
-  {
-    "Community_Name": "Mid-City West",
-    "totPeople": 224
-  },
-  {
-    "Community_Name": "Miracle Mile",
-    "totPeople": 255
-  },
-  {
-    "Community_Name": "Mission Hills",
-    "totPeople": 110
-  },
-  {
-    "Community_Name": "Monrovia",
-    "totPeople": 70
-  },
-  {
-    "Community_Name": "Montebello",
-    "totPeople": 346
-  },
-  {
-    "Community_Name": "Monterey Park",
-    "totPeople": 30
-  },
-  {
-    "Community_Name": "North El Monte",
-    "totPeople": 29
-  },
-  {
-    "Community_Name": "North Hills",
-    "totPeople": 213
-  },
-  {
-    "Community_Name": "North Hollywood",
-    "totPeople": 2315
-  },
-  {
-    "Community_Name": "Northridge",
-    "totPeople": 205
-  },
-  {
-    "Community_Name": "Norwalk",
-    "totPeople": 262
-  },
-  {
-    "Community_Name": "Pacific Palisades",
-    "totPeople": 107
-  },
-  {
-    "Community_Name": "Pacoima",
-    "totPeople": 497
-  },
-  {
-    "Community_Name": "Palmdale",
-    "totPeople": 226
-  },
-  {
-    "Community_Name": "Palms",
-    "totPeople": 134
-  },
-  {
-    "Community_Name": "Palos Verdes Estates",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Panorama City",
-    "totPeople": 157
-  },
-  {
-    "Community_Name": "Paramount",
-    "totPeople": 83
-  },
-  {
-    "Community_Name": "Pico Rivera",
-    "totPeople": 202
-  },
-  {
-    "Community_Name": "Pico Union",
-    "totPeople": 286
-  },
-  {
-    "Community_Name": "Pomona",
-    "totPeople": 773
-  },
-  {
-    "Community_Name": "Porter Ranch",
-    "totPeople": 9
-  },
-  {
-    "Community_Name": "Rampart Village",
-    "totPeople": 304
-  },
-  {
-    "Community_Name": "Rancho Palos Verdes",
-    "totPeople": 4
-  },
-  {
-    "Community_Name": "Redondo Beach",
-    "totPeople": 154
-  },
-  {
-    "Community_Name": "Reseda",
-    "totPeople": 124
-  },
-  {
-    "Community_Name": "Rolling Hills",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Rolling Hills Estates",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Rosemead",
-    "totPeople": 81
-  },
-  {
-    "Community_Name": "Rowland Heights",
-    "totPeople": 39
-  },
-  {
-    "Community_Name": "San Dimas",
-    "totPeople": 13
-  },
-  {
-    "Community_Name": "San Fernando",
-    "totPeople": 40
-  },
-  {
-    "Community_Name": "San Gabriel",
-    "totPeople": 6
-  },
-  {
-    "Community_Name": "San Marino",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "San Pasqual",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "San Pedro",
-    "totPeople": 496
-  },
-  {
-    "Community_Name": "Santa Clarita",
-    "totPeople": 161
-  },
-  {
-    "Community_Name": "Santa Fe Springs",
-    "totPeople": 262
-  },
-  {
-    "Community_Name": "Santa Monica",
-    "totPeople": 905
-  },
-  {
-    "Community_Name": "Santa Susana Mountains",
-    "totPeople": 13
-  },
-  {
-    "Community_Name": "Sherman Oaks",
-    "totPeople": 77
-  },
-  {
-    "Community_Name": "Sierra Madre",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Signal Hill",
-    "totPeople": 36
-  },
-  {
-    "Community_Name": "Silver Lake",
-    "totPeople": 78
-  },
-  {
-    "Community_Name": "Skid Row",
-    "totPeople": 4193
-  },
-  {
-    "Community_Name": "South Central",
-    "totPeople": 758
-  },
-  {
-    "Community_Name": "South El Monte",
-    "totPeople": 89
-  },
-  {
-    "Community_Name": "South Gate",
-    "totPeople": 261
-  },
-  {
-    "Community_Name": "South Park",
-    "totPeople": 972
-  },
-  {
-    "Community_Name": "South Pasadena",
-    "totPeople": 22
-  },
-  {
-    "Community_Name": "South San Gabriel",
-    "totPeople": 2
-  },
-  {
-    "Community_Name": "South San Jose Hills",
-    "totPeople": 5
-  },
-  {
-    "Community_Name": "South Vermont",
-    "totPeople": 403
-  },
-  {
-    "Community_Name": "South Whittier",
-    "totPeople": 141
-  },
-  {
-    "Community_Name": "Stevenson Ranch",
-    "totPeople": 11
-  },
-  {
-    "Community_Name": "Studio City",
-    "totPeople": 39
-  },
-  {
-    "Community_Name": "Sun Valley",
-    "totPeople": 537
-  },
-  {
-    "Community_Name": "Sunland-Tujunga",
-    "totPeople": 98
-  },
-  {
-    "Community_Name": "Sylmar",
-    "totPeople": 399
-  },
-  {
-    "Community_Name": "Tarzana",
-    "totPeople": 59
-  },
-  {
-    "Community_Name": "Temple City",
-    "totPeople": 10
-  },
-  {
-    "Community_Name": "Topanga",
-    "totPeople": 114
-  },
-  {
-    "Community_Name": "Torrance",
-    "totPeople": 187
-  },
-  {
-    "Community_Name": "Unincorporated Antelope Valley",
-    "totPeople": 1280
-  },
-  {
-    "Community_Name": "Unincorporated Catalina",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Unincorporated Compton",
-    "totPeople": 198
-  },
-  {
-    "Community_Name": "Unincorporated East Whittier",
-    "totPeople": 4
-  },
-  {
-    "Community_Name": "Unincorporated Whittier",
-    "totPeople": 9
-  },
-  {
-    "Community_Name": "Universal City",
-    "totPeople": 1
-  },
-  {
-    "Community_Name": "University Park",
-    "totPeople": 23
-  },
-  {
-    "Community_Name": "US Department of Veterans Affairs West LA Campus",
-    "totPeople": 391
-  },
-  {
-    "Community_Name": "Valinda",
-    "totPeople": 9
-  },
-  {
-    "Community_Name": "Valley Village",
-    "totPeople": 74
-  },
-  {
-    "Community_Name": "Van Nuys",
-    "totPeople": 431
-  },
-  {
-    "Community_Name": "Venice",
-    "totPeople": 849
-  },
-  {
-    "Community_Name": "Vermont Square",
-    "totPeople": 976
-  },
-  {
-    "Community_Name": "Vernon",
-    "totPeople": 103
-  },
-  {
-    "Community_Name": "View Park-Windsor Hills",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Vincent",
-    "totPeople": 10
-  },
-  {
-    "Community_Name": "Walnut",
-    "totPeople": 8
-  },
-  {
-    "Community_Name": "Walnut Park",
-    "totPeople": 8
-  },
-  {
-    "Community_Name": "Watts",
-    "totPeople": 133
-  },
-  {
-    "Community_Name": "West Adams-Expo Park",
-    "totPeople": 248
-  },
-  {
-    "Community_Name": "West Carson",
-    "totPeople": 200
-  },
-  {
-    "Community_Name": "West Compton",
-    "totPeople": 279
-  },
-  {
-    "Community_Name": "West Covina",
-    "totPeople": 277
-  },
-  {
-    "Community_Name": "West Hills",
-    "totPeople": 107
-  },
-  {
-    "Community_Name": "West Hollywood",
-    "totPeople": 100
-  },
-  {
-    "Community_Name": "West Los Angeles",
-    "totPeople": 160
-  },
-  {
-    "Community_Name": "West Puente Valley",
-    "totPeople": 4
-  },
-  {
-    "Community_Name": "West Whittier-Los Nietos",
-    "totPeople": 126
-  },
-  {
-    "Community_Name": "Westchester/Playa Del Rey",
-    "totPeople": 333
-  },
-  {
-    "Community_Name": "Westlake",
-    "totPeople": 965
-  },
-  {
-    "Community_Name": "Westlake Village",
-    "totPeople": 0
-  },
-  {
-    "Community_Name": "Westmont / West Athens",
-    "totPeople": 109
-  },
-  {
-    "Community_Name": "Westside",
-    "totPeople": 85
-  },
-  {
-    "Community_Name": "Westwood",
-    "totPeople": 248
-  },
-  {
-    "Community_Name": "Whittier",
-    "totPeople": 204
-  },
-  {
-    "Community_Name": "Whittier Narrows",
-    "totPeople": 35
-  },
-  {
-    "Community_Name": "Willowbrook",
-    "totPeople": 418
-  },
-  {
-    "Community_Name": "Wilmington",
-    "totPeople": 538
-  },
-  {
-    "Community_Name": "Wilshire Center-Koreatown",
-    "totPeople": 313
-  },
-  {
-    "Community_Name": "Winnetka",
-    "totPeople": 122
-  },
-  {
-    "Community_Name": "Woodland Hills",
-    "totPeople": 108
-  }
- ]
+{
+  "2016": [
+    {
+      "Community_Name": "Adams",
+      "totPeople": 309
+    },
+    {
+      "Community_Name": "Adams-La Brea",
+      "totPeople": 92
+    },
+    {
+      "Community_Name": "Agoura Hills",
+      "totPeople": 21
+    },
+    {
+      "Community_Name": "Agua Dulce",
+      "totPeople": 86
+    },
+    {
+      "Community_Name": "Alhambra",
+      "totPeople": 64
+    },
+    {
+      "Community_Name": "Alondra Park",
+      "totPeople": 22
+    },
+    {
+      "Community_Name": "Altadena",
+      "totPeople": 58
+    },
+    {
+      "Community_Name": "Angeles National Forest",
+      "totPeople": 179
+    },
+    {
+      "Community_Name": "Arcadia",
+      "totPeople": 12
+    },
+    {
+      "Community_Name": "Arleta",
+      "totPeople": 97
+    },
+    {
+      "Community_Name": "Artesia",
+      "totPeople": 32
+    },
+    {
+      "Community_Name": "Atwater Village",
+      "totPeople": 80
+    },
+    {
+      "Community_Name": "Avalon",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Avocado Heights",
+      "totPeople": 107
+    },
+    {
+      "Community_Name": "Azusa",
+      "totPeople": 55
+    },
+    {
+      "Community_Name": "Baldwin Hills / Crenshaw",
+      "totPeople": 383
+    },
+    {
+      "Community_Name": "Baldwin Park",
+      "totPeople": 111
+    },
+    {
+      "Community_Name": "Bel Air-Beverly Crest",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "Bell",
+      "totPeople": 62
+    },
+    {
+      "Community_Name": "Bell Gardens",
+      "totPeople": 104
+    },
+    {
+      "Community_Name": "Bellflower",
+      "totPeople": 241
+    },
+    {
+      "Community_Name": "Beverly Hills",
+      "totPeople": 16
+    },
+    {
+      "Community_Name": "Boyle Heights",
+      "totPeople": 754
+    },
+    {
+      "Community_Name": "Bradbury",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Brentwood",
+      "totPeople": 44
+    },
+    {
+      "Community_Name": "Burbank",
+      "totPeople": 167
+    },
+    {
+      "Community_Name": "Calabasas and Hidden Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Calabasas",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Canoga Park",
+      "totPeople": 239
+    },
+    {
+      "Community_Name": "Canyon Country",
+      "totPeople": 42
+    },
+    {
+      "Community_Name": "Carson",
+      "totPeople": 369
+    },
+    {
+      "Community_Name": "Compton",
+      "totPeople": 500
+    },
+    {
+      "Community_Name": "Central Alameda",
+      "totPeople": 132
+    },
+    {
+      "Community_Name": "Cerritos",
+      "totPeople": 27
+    },
+    {
+      "Community_Name": "Charter Oak",
+      "totPeople": 13
+    },
+    {
+      "Community_Name": "Chatsworth",
+      "totPeople": 221
+    },
+    {
+      "Community_Name": "Chinatown",
+      "totPeople": 277
+    },
+    {
+      "Community_Name": "Citrus",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Claremont",
+      "totPeople": 27
+    },
+    {
+      "Community_Name": "Commerce",
+      "totPeople": 471
+    },
+    {
+      "Community_Name": "Covina",
+      "totPeople": 53
+    },
+    {
+      "Community_Name": "Cudahy",
+      "totPeople": 119
+    },
+    {
+      "Community_Name": "Culver City",
+      "totPeople": 122
+    },
+    {
+      "Community_Name": "Cypress Park",
+      "totPeople": 51
+    },
+    {
+      "Community_Name": "Del Aire",
+      "totPeople": 7
+    },
+    {
+      "Community_Name": "Del Rey",
+      "totPeople": 179
+    },
+    {
+      "Community_Name": "Diamond Bar",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Downey",
+      "totPeople": 209
+    },
+    {
+      "Community_Name": "Downtown Los Angeles",
+      "totPeople": 1034
+    },
+    {
+      "Community_Name": "Duarte",
+      "totPeople": 60
+    },
+    {
+      "Community_Name": "Eagle Rock",
+      "totPeople": 174
+    },
+    {
+      "Community_Name": "Unincorporated East Whittier",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "East Los Angeles",
+      "totPeople": 288
+    },
+    {
+      "Community_Name": "East Pasadena",
+      "totPeople": 12
+    },
+    {
+      "Community_Name": "East San Gabriel",
+      "totPeople": 14
+    },
+    {
+      "Community_Name": "Echo Park",
+      "totPeople": 514
+    },
+    {
+      "Community_Name": "El Monte",
+      "totPeople": 269
+    },
+    {
+      "Community_Name": "El Segundo",
+      "totPeople": 20
+    },
+    {
+      "Community_Name": "El Sereno",
+      "totPeople": 68
+    },
+    {
+      "Community_Name": "Encino",
+      "totPeople": 29
+    },
+    {
+      "Community_Name": "Florence-Graham",
+      "totPeople": 543
+    },
+    {
+      "Community_Name": "Foothill Trails",
+      "totPeople": 99
+    },
+    {
+      "Community_Name": "Elysian Valley",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "Gardena",
+      "totPeople": 186
+    },
+    {
+      "Community_Name": "Glassell Park",
+      "totPeople": 32
+    },
+    {
+      "Community_Name": "Glendora",
+      "totPeople": 270
+    },
+    {
+      "Community_Name": "Granada Hills",
+      "totPeople": 105
+    },
+    {
+      "Community_Name": "Green Meadows",
+      "totPeople": 496
+    },
+    {
+      "Community_Name": "Hacienda Heights",
+      "totPeople": 220
+    },
+    {
+      "Community_Name": "Harbor City",
+      "totPeople": 137
+    },
+    {
+      "Community_Name": "Harbor Gateway",
+      "totPeople": 150
+    },
+    {
+      "Community_Name": "Hawaiian Gardens",
+      "totPeople": 12
+    },
+    {
+      "Community_Name": "Hawthorne",
+      "totPeople": 100
+    },
+    {
+      "Community_Name": "Hermosa Beach",
+      "totPeople": 20
+    },
+    {
+      "Community_Name": "Highland Park",
+      "totPeople": 108
+    },
+    {
+      "Community_Name": "Hollywood",
+      "totPeople": 1677
+    },
+    {
+      "Community_Name": "Hollywood Hills West",
+      "totPeople": 111
+    },
+    {
+      "Community_Name": "Huntington Park",
+      "totPeople": 83
+    },
+    {
+      "Community_Name": "Industry",
+      "totPeople": 72
+    },
+    {
+      "Community_Name": "Inglewood",
+      "totPeople": 502
+    },
+    {
+      "Community_Name": "Irwindale",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "La Ca\u00c3\u00b1ada Flintridge",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "La Crescenta-Montrose",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "La Habra Heights",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "La Mirada",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "La Puente",
+      "totPeople": 49
+    },
+    {
+      "Community_Name": "La Rambla",
+      "totPeople": 44
+    },
+    {
+      "Community_Name": "La Verne",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Ladera Heights",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Lake Balboa",
+      "totPeople": 215
+    },
+    {
+      "Community_Name": "Lakewood",
+      "totPeople": 49
+    },
+    {
+      "Community_Name": "Lancaster",
+      "totPeople": 1055
+    },
+    {
+      "Community_Name": "Lawndale",
+      "totPeople": 43
+    },
+    {
+      "Community_Name": "Lennox",
+      "totPeople": 139
+    },
+    {
+      "Community_Name": "Lincoln Heights",
+      "totPeople": 112
+    },
+    {
+      "Community_Name": "Lomita",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "Los Feliz",
+      "totPeople": 141
+    },
+    {
+      "Community_Name": "Lynwood",
+      "totPeople": 118
+    },
+    {
+      "Community_Name": "Malibu",
+      "totPeople": 161
+    },
+    {
+      "Community_Name": "Malibu Lake",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Manhattan Beach",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Mar Vista",
+      "totPeople": 203
+    },
+    {
+      "Community_Name": "Marina del Rey",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "Mayflower Village",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Maywood",
+      "totPeople": 125
+    },
+    {
+      "Community_Name": "Mid City",
+      "totPeople": 80
+    },
+    {
+      "Community_Name": "Mid-City West",
+      "totPeople": 181
+    },
+    {
+      "Community_Name": "Miracle Mile",
+      "totPeople": 202
+    },
+    {
+      "Community_Name": "Mission Hills",
+      "totPeople": 51
+    },
+    {
+      "Community_Name": "Monrovia",
+      "totPeople": 61
+    },
+    {
+      "Community_Name": "Montebello",
+      "totPeople": 52
+    },
+    {
+      "Community_Name": "Monterey Park",
+      "totPeople": 7
+    },
+    {
+      "Community_Name": "North El Monte",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "North Hills",
+      "totPeople": 367
+    },
+    {
+      "Community_Name": "North Hollywood",
+      "totPeople": 736
+    },
+    {
+      "Community_Name": "Northridge",
+      "totPeople": 214
+    },
+    {
+      "Community_Name": "Norwalk",
+      "totPeople": 256
+    },
+    {
+      "Community_Name": "Pacific Palisades",
+      "totPeople": 198
+    },
+    {
+      "Community_Name": "Pacoima",
+      "totPeople": 417
+    },
+    {
+      "Community_Name": "Palmdale",
+      "totPeople": 233
+    },
+    {
+      "Community_Name": "Palms",
+      "totPeople": 205
+    },
+    {
+      "Community_Name": "Palos Verdes Estates",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Panorama City",
+      "totPeople": 181
+    },
+    {
+      "Community_Name": "Paramount",
+      "totPeople": 50
+    },
+    {
+      "Community_Name": "Pico Rivera",
+      "totPeople": 105
+    },
+    {
+      "Community_Name": "Pico Union",
+      "totPeople": 213
+    },
+    {
+      "Community_Name": "Pomona",
+      "totPeople": 689
+    },
+    {
+      "Community_Name": "Porter Ranch",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "Rampart Village",
+      "totPeople": 275
+    },
+    {
+      "Community_Name": "Rancho Palos Verdes",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "Redondo Beach",
+      "totPeople": 216
+    },
+    {
+      "Community_Name": "Reseda",
+      "totPeople": 194
+    },
+    {
+      "Community_Name": "Rolling Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rolling Hills Estates",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rosemead",
+      "totPeople": 24
+    },
+    {
+      "Community_Name": "Rowland Heights",
+      "totPeople": 66
+    },
+    {
+      "Community_Name": "San Dimas",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "San Fernando",
+      "totPeople": 24
+    },
+    {
+      "Community_Name": "San Gabriel",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "San Marino",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "San Pasqual",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "San Pedro",
+      "totPeople": 442
+    },
+    {
+      "Community_Name": "Santa Clarita",
+      "totPeople": 316
+    },
+    {
+      "Community_Name": "Santa Fe Springs",
+      "totPeople": 111
+    },
+    {
+      "Community_Name": "Santa Monica",
+      "totPeople": 712
+    },
+    {
+      "Community_Name": "Santa Susana Mountains",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "West Los Angeles",
+      "totPeople": 228
+    },
+    {
+      "Community_Name": "Sherman Oaks",
+      "totPeople": 119
+    },
+    {
+      "Community_Name": "Sierra Madre",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "Signal Hill",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "Silver Lake",
+      "totPeople": 160
+    },
+    {
+      "Community_Name": "Skid Row",
+      "totPeople": 3691
+    },
+    {
+      "Community_Name": "South Central",
+      "totPeople": 897
+    },
+    {
+      "Community_Name": "South El Monte",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "South Gate",
+      "totPeople": 122
+    },
+    {
+      "Community_Name": "Walnut Park",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "South Park",
+      "totPeople": 1282
+    },
+    {
+      "Community_Name": "South Pasadena",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "South San Gabriel",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "South San Jose Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "South Vermont",
+      "totPeople": 451
+    },
+    {
+      "Community_Name": "South Whittier",
+      "totPeople": 230
+    },
+    {
+      "Community_Name": "Stevenson Ranch",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Studio City",
+      "totPeople": 115
+    },
+    {
+      "Community_Name": "Sun Valley",
+      "totPeople": 905
+    },
+    {
+      "Community_Name": "Sunland-Tujunga",
+      "totPeople": 175
+    },
+    {
+      "Community_Name": "Sylmar",
+      "totPeople": 237
+    },
+    {
+      "Community_Name": "Tarzana",
+      "totPeople": 88
+    },
+    {
+      "Community_Name": "Temple City",
+      "totPeople": 19
+    },
+    {
+      "Community_Name": "Topanga",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Torrance",
+      "totPeople": 107
+    },
+    {
+      "Community_Name": "US Department of Affairs West LA Campus",
+      "totPeople": 384
+    },
+    {
+      "Community_Name": "Unincorporated Antelope Valley",
+      "totPeople": 1483
+    },
+    {
+      "Community_Name": "Unincorporated Catalina",
+      "totPeople": 19
+    },
+    {
+      "Community_Name": "Universal City",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "University Park",
+      "totPeople": 57
+    },
+    {
+      "Community_Name": "Valinda",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Valley Village",
+      "totPeople": 63
+    },
+    {
+      "Community_Name": "Van Nuys",
+      "totPeople": 474
+    },
+    {
+      "Community_Name": "Venice",
+      "totPeople": 889
+    },
+    {
+      "Community_Name": "Vermont Square",
+      "totPeople": 1296
+    },
+    {
+      "Community_Name": "Vernon",
+      "totPeople": 55
+    },
+    {
+      "Community_Name": "View Park-Windsor Hills",
+      "totPeople": 20
+    },
+    {
+      "Community_Name": "Vincent",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Walnut",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "Watts",
+      "totPeople": 302
+    },
+    {
+      "Community_Name": "West Adams-Expo Park",
+      "totPeople": 300
+    },
+    {
+      "Community_Name": "West Carson",
+      "totPeople": 138
+    },
+    {
+      "Community_Name": "West Compton",
+      "totPeople": 119
+    },
+    {
+      "Community_Name": "West Covina",
+      "totPeople": 48
+    },
+    {
+      "Community_Name": "West Hills",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "West Hollywood",
+      "totPeople": 81
+    },
+    {
+      "Community_Name": "West Puente Valley",
+      "totPeople": 36
+    },
+    {
+      "Community_Name": "West Whittier-Los Nietos",
+      "totPeople": 36
+    },
+    {
+      "Community_Name": "Westchester/Playa Del Rey",
+      "totPeople": 532
+    },
+    {
+      "Community_Name": "Westlake",
+      "totPeople": 1028
+    },
+    {
+      "Community_Name": "Westlake Village",
+      "totPeople": 41
+    },
+    {
+      "Community_Name": "Westmont / West Athens",
+      "totPeople": 365
+    },
+    {
+      "Community_Name": "Westside",
+      "totPeople": 226
+    },
+    {
+      "Community_Name": "Westwood",
+      "totPeople": 267
+    },
+    {
+      "Community_Name": "Whittier",
+      "totPeople": 258
+    },
+    {
+      "Community_Name": "Unincorporated Whittier",
+      "totPeople": 11
+    },
+    {
+      "Community_Name": "Whittier Narrows",
+      "totPeople": 65
+    },
+    {
+      "Community_Name": "Willowbrook",
+      "totPeople": 329
+    },
+    {
+      "Community_Name": "Wilmington",
+      "totPeople": 613
+    },
+    {
+      "Community_Name": "Wilshire Center-Koreatown",
+      "totPeople": 349
+    },
+    {
+      "Community_Name": "Winnetka",
+      "totPeople": 92
+    },
+    {
+      "Community_Name": "Woodland Hills",
+      "totPeople": 180
+    }
+  ],
+  "2017": [
+    {
+      "Community_Name": "Adams",
+      "totPeople": 524
+    },
+    {
+      "Community_Name": "Adams-La Brea",
+      "totPeople": 134
+    },
+    {
+      "Community_Name": "Agoura Hills",
+      "totPeople": 30
+    },
+    {
+      "Community_Name": "Agua Dulce",
+      "totPeople": 46
+    },
+    {
+      "Community_Name": "Alhambra",
+      "totPeople": 89
+    },
+    {
+      "Community_Name": "Alondra Park",
+      "totPeople": 15
+    },
+    {
+      "Community_Name": "Altadena",
+      "totPeople": 64
+    },
+    {
+      "Community_Name": "Angeles National Forest",
+      "totPeople": 332
+    },
+    {
+      "Community_Name": "Arcadia",
+      "totPeople": 14
+    },
+    {
+      "Community_Name": "Arleta",
+      "totPeople": 71
+    },
+    {
+      "Community_Name": "Artesia",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "Atwater Village",
+      "totPeople": 77
+    },
+    {
+      "Community_Name": "Avalon",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Avocado Heights",
+      "totPeople": 59
+    },
+    {
+      "Community_Name": "Azusa",
+      "totPeople": 143
+    },
+    {
+      "Community_Name": "Baldwin Hills / Crenshaw",
+      "totPeople": 440
+    },
+    {
+      "Community_Name": "Baldwin Park",
+      "totPeople": 143
+    },
+    {
+      "Community_Name": "Bel Air-Beverly Crest",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "Bell",
+      "totPeople": 72
+    },
+    {
+      "Community_Name": "Bell Gardens",
+      "totPeople": 93
+    },
+    {
+      "Community_Name": "Bellflower",
+      "totPeople": 166
+    },
+    {
+      "Community_Name": "Beverly Hills",
+      "totPeople": 31
+    },
+    {
+      "Community_Name": "Boyle Heights",
+      "totPeople": 698
+    },
+    {
+      "Community_Name": "Bradbury",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Brentwood",
+      "totPeople": 41
+    },
+    {
+      "Community_Name": "Burbank",
+      "totPeople": 229
+    },
+    {
+      "Community_Name": "Calabasas",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Calabasas and Hidden Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Canoga Park",
+      "totPeople": 158
+    },
+    {
+      "Community_Name": "Canyon Country",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "Carson",
+      "totPeople": 378
+    },
+    {
+      "Community_Name": "Central Alameda",
+      "totPeople": 255
+    },
+    {
+      "Community_Name": "Cerritos",
+      "totPeople": 66
+    },
+    {
+      "Community_Name": "Charter Oak",
+      "totPeople": 31
+    },
+    {
+      "Community_Name": "Chatsworth",
+      "totPeople": 344
+    },
+    {
+      "Community_Name": "Chinatown",
+      "totPeople": 309
+    },
+    {
+      "Community_Name": "Citrus",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Claremont",
+      "totPeople": 19
+    },
+    {
+      "Community_Name": "Commerce",
+      "totPeople": 422
+    },
+    {
+      "Community_Name": "Compton",
+      "totPeople": 554
+    },
+    {
+      "Community_Name": "Covina",
+      "totPeople": 80
+    },
+    {
+      "Community_Name": "Cudahy",
+      "totPeople": 162
+    },
+    {
+      "Community_Name": "Culver City",
+      "totPeople": 226
+    },
+    {
+      "Community_Name": "Cypress Park",
+      "totPeople": 59
+    },
+    {
+      "Community_Name": "Del Aire",
+      "totPeople": 32
+    },
+    {
+      "Community_Name": "Del Rey",
+      "totPeople": 201
+    },
+    {
+      "Community_Name": "Diamond Bar",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Downey",
+      "totPeople": 124
+    },
+    {
+      "Community_Name": "Downtown Los Angeles",
+      "totPeople": 1433
+    },
+    {
+      "Community_Name": "Duarte",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "Eagle Rock",
+      "totPeople": 263
+    },
+    {
+      "Community_Name": "East Los Angeles",
+      "totPeople": 574
+    },
+    {
+      "Community_Name": "East Pasadena",
+      "totPeople": 17
+    },
+    {
+      "Community_Name": "East San Gabriel",
+      "totPeople": 25
+    },
+    {
+      "Community_Name": "Echo Park",
+      "totPeople": 745
+    },
+    {
+      "Community_Name": "El Monte",
+      "totPeople": 509
+    },
+    {
+      "Community_Name": "El Segundo",
+      "totPeople": 25
+    },
+    {
+      "Community_Name": "El Sereno",
+      "totPeople": 231
+    },
+    {
+      "Community_Name": "Elysian Valley",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "Encino",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "Florence-Graham",
+      "totPeople": 547
+    },
+    {
+      "Community_Name": "Foothill Trails",
+      "totPeople": 124
+    },
+    {
+      "Community_Name": "Gardena",
+      "totPeople": 237
+    },
+    {
+      "Community_Name": "Glassell Park",
+      "totPeople": 101
+    },
+    {
+      "Community_Name": "Glendora",
+      "totPeople": 226
+    },
+    {
+      "Community_Name": "Granada Hills",
+      "totPeople": 96
+    },
+    {
+      "Community_Name": "Green Meadows",
+      "totPeople": 531
+    },
+    {
+      "Community_Name": "Hacienda Heights",
+      "totPeople": 47
+    },
+    {
+      "Community_Name": "Harbor City",
+      "totPeople": 110
+    },
+    {
+      "Community_Name": "Harbor Gateway",
+      "totPeople": 198
+    },
+    {
+      "Community_Name": "Hawaiian Gardens",
+      "totPeople": 53
+    },
+    {
+      "Community_Name": "Hawthorne",
+      "totPeople": 74
+    },
+    {
+      "Community_Name": "Hermosa Beach",
+      "totPeople": 19
+    },
+    {
+      "Community_Name": "Highland Park",
+      "totPeople": 165
+    },
+    {
+      "Community_Name": "Hollywood",
+      "totPeople": 1540
+    },
+    {
+      "Community_Name": "Hollywood Hills West",
+      "totPeople": 181
+    },
+    {
+      "Community_Name": "Huntington Park",
+      "totPeople": 191
+    },
+    {
+      "Community_Name": "Industry",
+      "totPeople": 152
+    },
+    {
+      "Community_Name": "Inglewood",
+      "totPeople": 335
+    },
+    {
+      "Community_Name": "Irwindale",
+      "totPeople": 50
+    },
+    {
+      "Community_Name": "Kinneloa Mesa",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "La Ca\u00c3\u00b1ada Flintridge",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "La Crescenta-Montrose",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "La Habra Heights",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "La Mirada",
+      "totPeople": 12
+    },
+    {
+      "Community_Name": "La Puente",
+      "totPeople": 26
+    },
+    {
+      "Community_Name": "La Rambla",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "La Verne",
+      "totPeople": 37
+    },
+    {
+      "Community_Name": "Ladera Heights",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Lake Balboa",
+      "totPeople": 370
+    },
+    {
+      "Community_Name": "Lakewood",
+      "totPeople": 120
+    },
+    {
+      "Community_Name": "Lancaster",
+      "totPeople": 642
+    },
+    {
+      "Community_Name": "Lawndale",
+      "totPeople": 42
+    },
+    {
+      "Community_Name": "Lennox",
+      "totPeople": 143
+    },
+    {
+      "Community_Name": "Lincoln Heights",
+      "totPeople": 225
+    },
+    {
+      "Community_Name": "Lomita",
+      "totPeople": 31
+    },
+    {
+      "Community_Name": "Los Feliz",
+      "totPeople": 155
+    },
+    {
+      "Community_Name": "Lynwood",
+      "totPeople": 132
+    },
+    {
+      "Community_Name": "Malibu",
+      "totPeople": 180
+    },
+    {
+      "Community_Name": "Malibu Lake",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Manhattan Beach",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Mar Vista",
+      "totPeople": 171
+    },
+    {
+      "Community_Name": "Marina del Rey",
+      "totPeople": 31
+    },
+    {
+      "Community_Name": "Mayflower Village",
+      "totPeople": 11
+    },
+    {
+      "Community_Name": "Maywood",
+      "totPeople": 90
+    },
+    {
+      "Community_Name": "Mid City",
+      "totPeople": 129
+    },
+    {
+      "Community_Name": "Mid-City West",
+      "totPeople": 203
+    },
+    {
+      "Community_Name": "Miracle Mile",
+      "totPeople": 207
+    },
+    {
+      "Community_Name": "Mission Hills",
+      "totPeople": 230
+    },
+    {
+      "Community_Name": "Monrovia",
+      "totPeople": 39
+    },
+    {
+      "Community_Name": "Montebello",
+      "totPeople": 361
+    },
+    {
+      "Community_Name": "Monterey Park",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "North El Monte",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "North Hills",
+      "totPeople": 370
+    },
+    {
+      "Community_Name": "North Hollywood",
+      "totPeople": 791
+    },
+    {
+      "Community_Name": "Northridge",
+      "totPeople": 202
+    },
+    {
+      "Community_Name": "Norwalk",
+      "totPeople": 469
+    },
+    {
+      "Community_Name": "Pacific Palisades",
+      "totPeople": 101
+    },
+    {
+      "Community_Name": "Pacoima",
+      "totPeople": 300
+    },
+    {
+      "Community_Name": "Palmdale",
+      "totPeople": 342
+    },
+    {
+      "Community_Name": "Palms",
+      "totPeople": 309
+    },
+    {
+      "Community_Name": "Palos Verdes Estates",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Panorama City",
+      "totPeople": 305
+    },
+    {
+      "Community_Name": "Paramount",
+      "totPeople": 111
+    },
+    {
+      "Community_Name": "Pico Rivera",
+      "totPeople": 213
+    },
+    {
+      "Community_Name": "Pico Union",
+      "totPeople": 214
+    },
+    {
+      "Community_Name": "Pomona",
+      "totPeople": 877
+    },
+    {
+      "Community_Name": "Porter Ranch",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "Rampart Village",
+      "totPeople": 250
+    },
+    {
+      "Community_Name": "Rancho Palos Verdes",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "Redondo Beach",
+      "totPeople": 261
+    },
+    {
+      "Community_Name": "Reseda",
+      "totPeople": 194
+    },
+    {
+      "Community_Name": "Rolling Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rolling Hills Estates",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rosemead",
+      "totPeople": 50
+    },
+    {
+      "Community_Name": "Rowland Heights",
+      "totPeople": 45
+    },
+    {
+      "Community_Name": "San Dimas",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "San Fernando",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "San Gabriel",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "San Marino",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "San Pasqual",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "San Pedro",
+      "totPeople": 559
+    },
+    {
+      "Community_Name": "Santa Clarita",
+      "totPeople": 331
+    },
+    {
+      "Community_Name": "Santa Fe Springs",
+      "totPeople": 163
+    },
+    {
+      "Community_Name": "Santa Monica",
+      "totPeople": 855
+    },
+    {
+      "Community_Name": "Santa Susana Mountains",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Sherman Oaks",
+      "totPeople": 73
+    },
+    {
+      "Community_Name": "Sierra Madre",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "Signal Hill",
+      "totPeople": 28
+    },
+    {
+      "Community_Name": "Silver Lake",
+      "totPeople": 128
+    },
+    {
+      "Community_Name": "Skid Row",
+      "totPeople": 4485
+    },
+    {
+      "Community_Name": "South Central",
+      "totPeople": 1141
+    },
+    {
+      "Community_Name": "South El Monte",
+      "totPeople": 53
+    },
+    {
+      "Community_Name": "South Gate",
+      "totPeople": 158
+    },
+    {
+      "Community_Name": "South Park",
+      "totPeople": 897
+    },
+    {
+      "Community_Name": "South Pasadena",
+      "totPeople": 11
+    },
+    {
+      "Community_Name": "South San Gabriel",
+      "totPeople": 29
+    },
+    {
+      "Community_Name": "South San Jose Hills",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "South Vermont",
+      "totPeople": 949
+    },
+    {
+      "Community_Name": "South Whittier",
+      "totPeople": 228
+    },
+    {
+      "Community_Name": "Stevenson Ranch",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "Studio City",
+      "totPeople": 78
+    },
+    {
+      "Community_Name": "Sun Valley",
+      "totPeople": 639
+    },
+    {
+      "Community_Name": "Sunland-Tujunga",
+      "totPeople": 109
+    },
+    {
+      "Community_Name": "Sylmar",
+      "totPeople": 395
+    },
+    {
+      "Community_Name": "Tarzana",
+      "totPeople": 90
+    },
+    {
+      "Community_Name": "Temple City",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "Topanga",
+      "totPeople": 125
+    },
+    {
+      "Community_Name": "Torrance",
+      "totPeople": 145
+    },
+    {
+      "Community_Name": "Unincorporated Antelope Valley",
+      "totPeople": 2045
+    },
+    {
+      "Community_Name": "Unincorporated Catalina",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Unincorporated Compton",
+      "totPeople": 484
+    },
+    {
+      "Community_Name": "Unincorporated East Whittier",
+      "totPeople": 30
+    },
+    {
+      "Community_Name": "Unincorporated Whittier",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Universal City",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "University Park",
+      "totPeople": 125
+    },
+    {
+      "Community_Name": "US Department of Affairs West LA Campus",
+      "totPeople": 379
+    },
+    {
+      "Community_Name": "Valinda",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "Valley Village",
+      "totPeople": 128
+    },
+    {
+      "Community_Name": "Van Nuys",
+      "totPeople": 519
+    },
+    {
+      "Community_Name": "Venice",
+      "totPeople": 1071
+    },
+    {
+      "Community_Name": "Vermont Square",
+      "totPeople": 1090
+    },
+    {
+      "Community_Name": "Vernon",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "View Park-Windsor Hills",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Vincent",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Walnut",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "Walnut Park",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Watts",
+      "totPeople": 439
+    },
+    {
+      "Community_Name": "West Adams-Expo Park",
+      "totPeople": 435
+    },
+    {
+      "Community_Name": "West Carson",
+      "totPeople": 118
+    },
+    {
+      "Community_Name": "West Compton",
+      "totPeople": 231
+    },
+    {
+      "Community_Name": "West Covina",
+      "totPeople": 158
+    },
+    {
+      "Community_Name": "West Hills",
+      "totPeople": 85
+    },
+    {
+      "Community_Name": "West Hollywood",
+      "totPeople": 105
+    },
+    {
+      "Community_Name": "West Los Angeles",
+      "totPeople": 275
+    },
+    {
+      "Community_Name": "West Puente Valley",
+      "totPeople": 29
+    },
+    {
+      "Community_Name": "West Whittier-Los Nietos",
+      "totPeople": 102
+    },
+    {
+      "Community_Name": "Westchester/Playa Del Rey",
+      "totPeople": 723
+    },
+    {
+      "Community_Name": "Westlake",
+      "totPeople": 1278
+    },
+    {
+      "Community_Name": "Westlake Village",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Westmont / West Athens",
+      "totPeople": 172
+    },
+    {
+      "Community_Name": "Westside",
+      "totPeople": 295
+    },
+    {
+      "Community_Name": "Westwood",
+      "totPeople": 155
+    },
+    {
+      "Community_Name": "Whittier",
+      "totPeople": 214
+    },
+    {
+      "Community_Name": "Whittier Narrows",
+      "totPeople": 116
+    },
+    {
+      "Community_Name": "Willowbrook",
+      "totPeople": 375
+    },
+    {
+      "Community_Name": "Wilmington",
+      "totPeople": 598
+    },
+    {
+      "Community_Name": "Wilshire Center-Koreatown",
+      "totPeople": 368
+    },
+    {
+      "Community_Name": "Winnetka",
+      "totPeople": 79
+    },
+    {
+      "Community_Name": "Woodland Hills",
+      "totPeople": 97
+    },
+    {
+      "Community_Name": "Unincorporated Palmdale",
+      "totPeople": 589
+    }
+  ],
+  "2018": [
+    {
+      "Community_Name": "Adams",
+      "totPeople": 259
+    },
+    {
+      "Community_Name": "Adams-La Brea",
+      "totPeople": 179
+    },
+    {
+      "Community_Name": "Agoura Hills",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "Agua Dulce",
+      "totPeople": 38
+    },
+    {
+      "Community_Name": "Alhambra",
+      "totPeople": 52
+    },
+    {
+      "Community_Name": "Alondra Park",
+      "totPeople": 42
+    },
+    {
+      "Community_Name": "Altadena",
+      "totPeople": 56
+    },
+    {
+      "Community_Name": "Angeles National Forest",
+      "totPeople": 36
+    },
+    {
+      "Community_Name": "Arcadia",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "Arleta",
+      "totPeople": 80
+    },
+    {
+      "Community_Name": "Arroyo Seco",
+      "totPeople": 185
+    },
+    {
+      "Community_Name": "Artesia",
+      "totPeople": 16
+    },
+    {
+      "Community_Name": "Atwater Village",
+      "totPeople": 111
+    },
+    {
+      "Community_Name": "Avalon",
+      "totPeople": 42
+    },
+    {
+      "Community_Name": "Avocado Heights",
+      "totPeople": 33
+    },
+    {
+      "Community_Name": "Azusa",
+      "totPeople": 159
+    },
+    {
+      "Community_Name": "Baldwin Hills / Crenshaw",
+      "totPeople": 367
+    },
+    {
+      "Community_Name": "Baldwin Park",
+      "totPeople": 288
+    },
+    {
+      "Community_Name": "Bel Air-Beverly Crest",
+      "totPeople": 14
+    },
+    {
+      "Community_Name": "Bell",
+      "totPeople": 431
+    },
+    {
+      "Community_Name": "Bell Gardens",
+      "totPeople": 105
+    },
+    {
+      "Community_Name": "Bellflower",
+      "totPeople": 135
+    },
+    {
+      "Community_Name": "Beverly Hills",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Boyle Heights",
+      "totPeople": 584
+    },
+    {
+      "Community_Name": "Bradbury",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Brentwood",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "Burbank",
+      "totPeople": 200
+    },
+    {
+      "Community_Name": "Calabasas",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Calabasas and Hidden Hills",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "Canoga Park",
+      "totPeople": 156
+    },
+    {
+      "Community_Name": "Canyon Country",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "Carson",
+      "totPeople": 461
+    },
+    {
+      "Community_Name": "Central Alameda",
+      "totPeople": 189
+    },
+    {
+      "Community_Name": "Cerritos",
+      "totPeople": 59
+    },
+    {
+      "Community_Name": "Charter Oak",
+      "totPeople": 18
+    },
+    {
+      "Community_Name": "Chatsworth",
+      "totPeople": 162
+    },
+    {
+      "Community_Name": "Chinatown",
+      "totPeople": 397
+    },
+    {
+      "Community_Name": "Citrus",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Claremont",
+      "totPeople": 29
+    },
+    {
+      "Community_Name": "Commerce",
+      "totPeople": 218
+    },
+    {
+      "Community_Name": "Compton",
+      "totPeople": 394
+    },
+    {
+      "Community_Name": "Covina",
+      "totPeople": 98
+    },
+    {
+      "Community_Name": "Cudahy",
+      "totPeople": 28
+    },
+    {
+      "Community_Name": "Culver City",
+      "totPeople": 118
+    },
+    {
+      "Community_Name": "Cypress Park",
+      "totPeople": 53
+    },
+    {
+      "Community_Name": "Del Aire",
+      "totPeople": 13
+    },
+    {
+      "Community_Name": "Del Rey",
+      "totPeople": 263
+    },
+    {
+      "Community_Name": "Diamond Bar",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Downey",
+      "totPeople": 180
+    },
+    {
+      "Community_Name": "Downtown Los Angeles",
+      "totPeople": 1552
+    },
+    {
+      "Community_Name": "Duarte",
+      "totPeople": 15
+    },
+    {
+      "Community_Name": "Eagle Rock",
+      "totPeople": 184
+    },
+    {
+      "Community_Name": "East Los Angeles",
+      "totPeople": 359
+    },
+    {
+      "Community_Name": "East Pasadena",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "East San Gabriel",
+      "totPeople": 7
+    },
+    {
+      "Community_Name": "Echo Park",
+      "totPeople": 815
+    },
+    {
+      "Community_Name": "El Monte",
+      "totPeople": 543
+    },
+    {
+      "Community_Name": "El Segundo",
+      "totPeople": 14
+    },
+    {
+      "Community_Name": "El Sereno",
+      "totPeople": 93
+    },
+    {
+      "Community_Name": "Elysian Valley",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "Encino",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "Florence-Graham",
+      "totPeople": 729
+    },
+    {
+      "Community_Name": "Foothill Trails",
+      "totPeople": 60
+    },
+    {
+      "Community_Name": "Gardena",
+      "totPeople": 47
+    },
+    {
+      "Community_Name": "Glassell Park",
+      "totPeople": 106
+    },
+    {
+      "Community_Name": "Glendora",
+      "totPeople": 63
+    },
+    {
+      "Community_Name": "Granada Hills",
+      "totPeople": 58
+    },
+    {
+      "Community_Name": "Green Meadows",
+      "totPeople": 617
+    },
+    {
+      "Community_Name": "Hacienda Heights",
+      "totPeople": 313
+    },
+    {
+      "Community_Name": "Harbor City",
+      "totPeople": 105
+    },
+    {
+      "Community_Name": "Harbor Gateway",
+      "totPeople": 178
+    },
+    {
+      "Community_Name": "Hawaiian Gardens",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "Hawthorne",
+      "totPeople": 138
+    },
+    {
+      "Community_Name": "Hermosa Beach",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "Highland Park",
+      "totPeople": 384
+    },
+    {
+      "Community_Name": "Hollywood",
+      "totPeople": 1353
+    },
+    {
+      "Community_Name": "Hollywood Hills West",
+      "totPeople": 133
+    },
+    {
+      "Community_Name": "Huntington Park",
+      "totPeople": 255
+    },
+    {
+      "Community_Name": "Industry",
+      "totPeople": 34
+    },
+    {
+      "Community_Name": "Inglewood",
+      "totPeople": 506
+    },
+    {
+      "Community_Name": "Irwindale",
+      "totPeople": 24
+    },
+    {
+      "Community_Name": "Kinneloa Mesa",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "La Cañada Flintridge",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "La Crescenta-Montrose",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "La Habra Heights",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "La Mirada",
+      "totPeople": 52
+    },
+    {
+      "Community_Name": "La Puente",
+      "totPeople": 13
+    },
+    {
+      "Community_Name": "La Rambla",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "La Verne",
+      "totPeople": 7
+    },
+    {
+      "Community_Name": "Ladera Heights",
+      "totPeople": 3
+    },
+    {
+      "Community_Name": "Lake Balboa",
+      "totPeople": 188
+    },
+    {
+      "Community_Name": "Lakewood",
+      "totPeople": 107
+    },
+    {
+      "Community_Name": "Lancaster",
+      "totPeople": 1076
+    },
+    {
+      "Community_Name": "Lawndale",
+      "totPeople": 31
+    },
+    {
+      "Community_Name": "Lennox",
+      "totPeople": 174
+    },
+    {
+      "Community_Name": "Lincoln Heights",
+      "totPeople": 273
+    },
+    {
+      "Community_Name": "Lomita",
+      "totPeople": 14
+    },
+    {
+      "Community_Name": "Los Feliz",
+      "totPeople": 151
+    },
+    {
+      "Community_Name": "Lynwood",
+      "totPeople": 158
+    },
+    {
+      "Community_Name": "Malibu",
+      "totPeople": 155
+    },
+    {
+      "Community_Name": "Malibu Lake",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "Manhattan Beach",
+      "totPeople": 40
+    },
+    {
+      "Community_Name": "Mar Vista",
+      "totPeople": 178
+    },
+    {
+      "Community_Name": "Marina del Rey",
+      "totPeople": 12
+    },
+    {
+      "Community_Name": "Mayflower Village",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Maywood",
+      "totPeople": 22
+    },
+    {
+      "Community_Name": "Mid City",
+      "totPeople": 144
+    },
+    {
+      "Community_Name": "Mid-City West",
+      "totPeople": 224
+    },
+    {
+      "Community_Name": "Miracle Mile",
+      "totPeople": 255
+    },
+    {
+      "Community_Name": "Mission Hills",
+      "totPeople": 110
+    },
+    {
+      "Community_Name": "Monrovia",
+      "totPeople": 70
+    },
+    {
+      "Community_Name": "Montebello",
+      "totPeople": 346
+    },
+    {
+      "Community_Name": "Monterey Park",
+      "totPeople": 30
+    },
+    {
+      "Community_Name": "North El Monte",
+      "totPeople": 29
+    },
+    {
+      "Community_Name": "North Hills",
+      "totPeople": 213
+    },
+    {
+      "Community_Name": "North Hollywood",
+      "totPeople": 2315
+    },
+    {
+      "Community_Name": "Northridge",
+      "totPeople": 205
+    },
+    {
+      "Community_Name": "Norwalk",
+      "totPeople": 262
+    },
+    {
+      "Community_Name": "Pacific Palisades",
+      "totPeople": 107
+    },
+    {
+      "Community_Name": "Pacoima",
+      "totPeople": 497
+    },
+    {
+      "Community_Name": "Palmdale",
+      "totPeople": 226
+    },
+    {
+      "Community_Name": "Palms",
+      "totPeople": 134
+    },
+    {
+      "Community_Name": "Palos Verdes Estates",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Panorama City",
+      "totPeople": 157
+    },
+    {
+      "Community_Name": "Paramount",
+      "totPeople": 83
+    },
+    {
+      "Community_Name": "Pico Rivera",
+      "totPeople": 202
+    },
+    {
+      "Community_Name": "Pico Union",
+      "totPeople": 286
+    },
+    {
+      "Community_Name": "Pomona",
+      "totPeople": 773
+    },
+    {
+      "Community_Name": "Porter Ranch",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Rampart Village",
+      "totPeople": 304
+    },
+    {
+      "Community_Name": "Rancho Palos Verdes",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Redondo Beach",
+      "totPeople": 154
+    },
+    {
+      "Community_Name": "Reseda",
+      "totPeople": 124
+    },
+    {
+      "Community_Name": "Rolling Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rolling Hills Estates",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Rosemead",
+      "totPeople": 81
+    },
+    {
+      "Community_Name": "Rowland Heights",
+      "totPeople": 39
+    },
+    {
+      "Community_Name": "San Dimas",
+      "totPeople": 13
+    },
+    {
+      "Community_Name": "San Fernando",
+      "totPeople": 40
+    },
+    {
+      "Community_Name": "San Gabriel",
+      "totPeople": 6
+    },
+    {
+      "Community_Name": "San Marino",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "San Pasqual",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "San Pedro",
+      "totPeople": 496
+    },
+    {
+      "Community_Name": "Santa Clarita",
+      "totPeople": 161
+    },
+    {
+      "Community_Name": "Santa Fe Springs",
+      "totPeople": 262
+    },
+    {
+      "Community_Name": "Santa Monica",
+      "totPeople": 905
+    },
+    {
+      "Community_Name": "Santa Susana Mountains",
+      "totPeople": 13
+    },
+    {
+      "Community_Name": "Sherman Oaks",
+      "totPeople": 77
+    },
+    {
+      "Community_Name": "Sierra Madre",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Signal Hill",
+      "totPeople": 36
+    },
+    {
+      "Community_Name": "Silver Lake",
+      "totPeople": 78
+    },
+    {
+      "Community_Name": "Skid Row",
+      "totPeople": 4193
+    },
+    {
+      "Community_Name": "South Central",
+      "totPeople": 758
+    },
+    {
+      "Community_Name": "South El Monte",
+      "totPeople": 89
+    },
+    {
+      "Community_Name": "South Gate",
+      "totPeople": 261
+    },
+    {
+      "Community_Name": "South Park",
+      "totPeople": 972
+    },
+    {
+      "Community_Name": "South Pasadena",
+      "totPeople": 22
+    },
+    {
+      "Community_Name": "South San Gabriel",
+      "totPeople": 2
+    },
+    {
+      "Community_Name": "South San Jose Hills",
+      "totPeople": 5
+    },
+    {
+      "Community_Name": "South Vermont",
+      "totPeople": 403
+    },
+    {
+      "Community_Name": "South Whittier",
+      "totPeople": 141
+    },
+    {
+      "Community_Name": "Stevenson Ranch",
+      "totPeople": 11
+    },
+    {
+      "Community_Name": "Studio City",
+      "totPeople": 39
+    },
+    {
+      "Community_Name": "Sun Valley",
+      "totPeople": 537
+    },
+    {
+      "Community_Name": "Sunland-Tujunga",
+      "totPeople": 98
+    },
+    {
+      "Community_Name": "Sylmar",
+      "totPeople": 399
+    },
+    {
+      "Community_Name": "Tarzana",
+      "totPeople": 59
+    },
+    {
+      "Community_Name": "Temple City",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "Topanga",
+      "totPeople": 114
+    },
+    {
+      "Community_Name": "Torrance",
+      "totPeople": 187
+    },
+    {
+      "Community_Name": "Unincorporated Antelope Valley",
+      "totPeople": 1280
+    },
+    {
+      "Community_Name": "Unincorporated Catalina",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Unincorporated Compton",
+      "totPeople": 198
+    },
+    {
+      "Community_Name": "Unincorporated East Whittier",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "Unincorporated Whittier",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Universal City",
+      "totPeople": 1
+    },
+    {
+      "Community_Name": "University Park",
+      "totPeople": 23
+    },
+    {
+      "Community_Name": "US Department of Veterans Affairs West LA Campus",
+      "totPeople": 391
+    },
+    {
+      "Community_Name": "Valinda",
+      "totPeople": 9
+    },
+    {
+      "Community_Name": "Valley Village",
+      "totPeople": 74
+    },
+    {
+      "Community_Name": "Van Nuys",
+      "totPeople": 431
+    },
+    {
+      "Community_Name": "Venice",
+      "totPeople": 849
+    },
+    {
+      "Community_Name": "Vermont Square",
+      "totPeople": 976
+    },
+    {
+      "Community_Name": "Vernon",
+      "totPeople": 103
+    },
+    {
+      "Community_Name": "View Park-Windsor Hills",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Vincent",
+      "totPeople": 10
+    },
+    {
+      "Community_Name": "Walnut",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "Walnut Park",
+      "totPeople": 8
+    },
+    {
+      "Community_Name": "Watts",
+      "totPeople": 133
+    },
+    {
+      "Community_Name": "West Adams-Expo Park",
+      "totPeople": 248
+    },
+    {
+      "Community_Name": "West Carson",
+      "totPeople": 200
+    },
+    {
+      "Community_Name": "West Compton",
+      "totPeople": 279
+    },
+    {
+      "Community_Name": "West Covina",
+      "totPeople": 277
+    },
+    {
+      "Community_Name": "West Hills",
+      "totPeople": 107
+    },
+    {
+      "Community_Name": "West Hollywood",
+      "totPeople": 100
+    },
+    {
+      "Community_Name": "West Los Angeles",
+      "totPeople": 160
+    },
+    {
+      "Community_Name": "West Puente Valley",
+      "totPeople": 4
+    },
+    {
+      "Community_Name": "West Whittier-Los Nietos",
+      "totPeople": 126
+    },
+    {
+      "Community_Name": "Westchester/Playa Del Rey",
+      "totPeople": 333
+    },
+    {
+      "Community_Name": "Westlake",
+      "totPeople": 965
+    },
+    {
+      "Community_Name": "Westlake Village",
+      "totPeople": 0
+    },
+    {
+      "Community_Name": "Westmont / West Athens",
+      "totPeople": 109
+    },
+    {
+      "Community_Name": "Westside",
+      "totPeople": 85
+    },
+    {
+      "Community_Name": "Westwood",
+      "totPeople": 248
+    },
+    {
+      "Community_Name": "Whittier",
+      "totPeople": 204
+    },
+    {
+      "Community_Name": "Whittier Narrows",
+      "totPeople": 35
+    },
+    {
+      "Community_Name": "Willowbrook",
+      "totPeople": 418
+    },
+    {
+      "Community_Name": "Wilmington",
+      "totPeople": 538
+    },
+    {
+      "Community_Name": "Wilshire Center-Koreatown",
+      "totPeople": 313
+    },
+    {
+      "Community_Name": "Winnetka",
+      "totPeople": 122
+    },
+    {
+      "Community_Name": "Woodland Hills",
+      "totPeople": 108
+    }
+  ]
+}
